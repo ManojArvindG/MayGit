@@ -7,6 +7,9 @@ public class GitTest {
 		int b=20;
 		System.out.println(b);
 		
+		long d=9887665488l;
+		System.out.println(d);
+		
 	}
 
 }
