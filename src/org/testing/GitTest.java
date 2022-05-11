@@ -8,7 +8,10 @@ public class GitTest {
 		System.out.println(b);
 		
 		double c=876.9866;
-		System.out.println(c);
+		System.out.println(c);		
+
+		long d=9887665488l;
+		System.out.println(d);
 		
 	}
 
